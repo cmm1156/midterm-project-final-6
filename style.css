@@ -139,6 +139,9 @@ body {
   font-style: italic;
 }
 
+#line4 a {
+  color: white;
+}
 
 #line4 a:link, a:visited {
   color: white;
